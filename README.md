@@ -2,7 +2,7 @@
 
 ![](Documents/piicodev-distance-sensor-vl53l1x.jpg)
 
-This is the repo for the [PiicoDev® Distance Sensor PCB](https://piico.dev/p7).
+This is the repo for the [PiicoDev® Distance Sensor](https://core-electronics.com.au/catalog/product/view/sku/CE07741) PCB.
 
 The PiicoDev® Distance Sensor is a long-distance laser-ranging sensor that uses Time-of-Flight (ToF) to accurately measure distances up to 4m.
 
